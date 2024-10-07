@@ -1,7 +1,7 @@
 # João-Vitor
 
 <h2> Hi, I'm João Vitor! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/embed/10I2yiQCXk4aaI" width="480" height="370" style="" frameBorder="0" class="giphy-embed)" width="230">
+<img align='right' src="" width="230">
 <p><em> Software Dev Student <a href="https://www.sp.senai.br">Senai-SP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
