@@ -17,7 +17,7 @@
 ```php
 $João = [
     "pronouns" => ["he", "him"],
-    "code" => ["Javascript", "PHP", "HTML", "CSS", "Dart", "Python",],
+    "code" => ["Javascript", "PHP", "HTML", "CSS", "Dart", "Python",]
     "tools" => ["MySql", "FlutterFlow", "Nodejs", "Design-Patterns", "WordPress"]
     "interests" => ["BackEnd", "AI", "Machine Learning", "Data Science"]
     "current_learning" => ["C++", "Machine Learning"]
