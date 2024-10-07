@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm João Vitor! <img src="![Flying Bat GIF](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)" width="50"></h2>
 <img align='right' src="" width="230">
-<p><em> Software Dev Student <a href="https://www.sp.senai.br">Senai-SP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+<p><em> Software Dev Student <a href="https://www.sp.senai.br">Senai-SP</a><img src="(https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif" width="30"></br> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
