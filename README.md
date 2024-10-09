@@ -18,7 +18,7 @@
 $João = [
     "pronouns" => ["he", "him"],
     "code" => ["Javascript", "PHP", "HTML", "CSS", "Dart", "Python",]
-    "tools" => ["MySql", "FlutterFlow", "Nodejs", "Design-Patterns", "WordPress"]
+    "tools" => ["MySql", "FlutterFlow", "Nodejs", "Design-Patterns", "WordPress, Exel"]
     "interests" => ["BackEnd", "AI", "Machine Learning", "Data Science"]
     "current_learning" => ["C++", "Machine Learning"]
 ];
